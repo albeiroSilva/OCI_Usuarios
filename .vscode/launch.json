@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootBackendApirestOciApplication<spring-boot-backend-apirest-oci>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.edu.unicauca.oci.backend.apirest.SpringBootBackendApirestOciApplication",
+            "projectName": "spring-boot-backend-apirest-oci",
+            "args": ""
+        }
+    ]
+}
